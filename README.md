@@ -1,3 +1,3 @@
 # test2
 
-[![Services Health](http://localhost:3000/badge/1572026932-59b9ae1a-00d1-41cf-bb2a-9fc780bd764f)](https://montastic.com)
+[![Services Health](http://status.lvh.me:3000/1572381233-ef8986b2-c0dc-48e2-a988-6a4b24b9554f-268016/badge)](http://status.lvh.me:3000/1572381233-ef8986b2-c0dc-48e2-a988-6a4b24b9554f-268016)
