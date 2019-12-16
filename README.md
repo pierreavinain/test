@@ -1,3 +1,3 @@
-# test2
+# MojoHelpdesk API
 
-[![Services Health](https://ihcm2sark.status.montastic.com/badge)](https://ihcm2sark.status.montastic.com)
+[![Services Health](https://airnode.staging.montastic.io/badge)](https://airnode.staging.montastic.io)
